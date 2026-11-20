@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "file": "Anti-0.2.0.dmg",
+  "url": "https://github.com/kumarannathan/Anti/releases/download/v0.2.0/Anti-0.2.0.dmg",
+  "size": 154576054,
+  "sha256": "084d80438d951e0b5d62e3071596658443f4823f2212382dea60defe29667ba0",
+  "arch": "universal",
+  "minMac": "11.0",
+  "signed": "adhoc",
+  "notarized": false,
+  "date": "2026-11-20"
+}
